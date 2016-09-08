@@ -11,8 +11,8 @@ In order for the Sunshine app to function properly, an API key for openweatherma
 
 This app provide users with a 10 day forecast of the user's preferred location. It is compatible with all devices running on Ice Cream Sandwich and higher (API Level 15). Internet connectivity is required to establish connection to the Open Weather database.Features:
 
-1. Sort the movies on the basis of Popularity and Rating
-2. Optimized app experience for tablet<
+1. Weather forecast for 10 days
+2. Optimized app experience for tablet
 3. Rain, fog, snow and sleet alerts.
 4. Widgets
 5. Getting location using google maps
